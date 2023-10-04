@@ -20,11 +20,11 @@
   },
   "homepage": "https://github.com/0nix/gofundme#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.2",
-    "phantom": "^6.0.3"
+    "jsdom": "^22.1.0",
+    "puppeteer": "^21.3.6"
   },
   "devDependencies": {
-    "chai": "^4.1.2",
-    "mocha": "^5.2.0"
+    "@types/jsdom": "^21.1.3",
+    "@types/phantom": "^3.2.7"
   }
 }
